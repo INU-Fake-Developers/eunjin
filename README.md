@@ -1,3 +1,4 @@
-**팔레트 연습**
+팔레트 연습
 ### 노래 추천
+####  X Ambassadors - HEY CHILD
 ##### [유튜브 링크](https://www.youtube.com/watch?v=ZaTVVDLWjCY)
